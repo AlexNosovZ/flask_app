@@ -16,6 +16,7 @@ def app():
 @pytest.fixture(scope='session')
 def client(app):
     return app.test_client()
+    
 
 
 @pytest.fixture(scope='session')
