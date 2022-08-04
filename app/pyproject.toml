@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "myapp"
+version = "0.1.0"
+description = ""
+authors = ["Alexander Nosov <zzlifnr@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = '^3.9'
+flask-restx = "^0.5.1"
+Werkzeug = "2.1.2"
+Flask = "2.1.2"
+gunicorn = "^20.1.0"
+
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

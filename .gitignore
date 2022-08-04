@@ -1,0 +1,14 @@
+
+/app/myapp/__pycache__
+/app/myapp/api/__pycache__/*
+/app/myapp/core/__pycache__/*
+/app/myapp/services/__pycache__/*
+*/__pycache__/*
+/app/myapp/.idea/.gitignore
+/app/myapp/.idea/inspectionProfiles/profiles_settings.xml
+/app/myapp/.idea/misc.xml
+/app/myapp/.idea/modules.xml
+/app/myapp/.idea/myapp.iml
+/app/myapp/.idea/vcs.xml
+
+.DS_Store
