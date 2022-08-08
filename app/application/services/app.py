@@ -1,5 +1,5 @@
 from flask import Flask
-from api.myapi import blueprint as api
+from api.api_pull import blueprint as api
 import core.conf_prod as conf_prod
 # from . import conf_prod.config, conf_prod.CfgProd, conf_prod.get_config
 

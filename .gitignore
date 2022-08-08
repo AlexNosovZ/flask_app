@@ -10,5 +10,17 @@
 /app/myapp/.idea/modules.xml
 /app/myapp/.idea/myapp.iml
 /app/myapp/.idea/vcs.xml
+/app/application/__pycache__
+/app/application/__pycache__
+/app/application/api/__pycache__/*
+/app/application/core/__pycache__/*
+/app/application/services/__pycache__/*
+*/__pycache__/*
+/app/application/.idea/.gitignore
+/app/application/.idea/inspectionProfiles/profiles_settings.xml
+/app/application/.idea/misc.xml
+/app/application/.idea/modules.xml
+/app/application/.idea/myapp.iml
+/app/application/.idea/vcs.xml
 
 .DS_Store
